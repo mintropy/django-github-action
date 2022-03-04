@@ -10,4 +10,5 @@ repos:
     hooks:
       - id: pylint
         additional_dependencies: [django, pylint-django]
-        args: [--disable=all, --enable=unused-import]
+        args:
+          - --errors-only
