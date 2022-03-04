@@ -2,7 +2,6 @@
 
 
 def foooo():
-    """my function"""
     return
 
 
