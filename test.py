@@ -5,4 +5,8 @@ def foooo():
     return
 
 
+def barrr():
+    pass
+
+
 weired = "weird"
