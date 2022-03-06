@@ -6,6 +6,7 @@ click==8.0.4
 colorama==0.4.4
 distlib==0.3.4
 Django==4.0.2
+django-environ==0.8.1
 filelock==3.6.0
 identify==2.4.11
 isort==5.10.1
