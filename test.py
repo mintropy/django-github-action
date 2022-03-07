@@ -9,5 +9,4 @@ def barrr():
     pass
 
 
-
-weired =    "weird"
+weired = "weird"
